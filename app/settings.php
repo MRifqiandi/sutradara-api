@@ -23,9 +23,9 @@ return function (ContainerBuilder $containerBuilder) {
                 ],
                 'db' => [
                     'host' => '127.0.0.1',
-                    'dbname' => 'sutradara',
-                    'user' => 'root',
-                    'password' => '',
+                    'dbname' => 'dev_sutradara',
+                    'user' => 'dev_user',
+                    'password' => 'youcanseeme!!!#23',
                 ]
             ]);
         },
